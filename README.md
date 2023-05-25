@@ -53,8 +53,3 @@ Negatives
 - The test requrires access to your laptop camera the entire time.
 - Make minor mistakes like the ones in the feedback and they will fail you.
 - I reached almost all the criteria, but it clearly made no difference.
-
-Test Rating
----
-3/10 : Unfair. Unrealistic. Intrusive.
-Let's hope for a better chance in the future.
