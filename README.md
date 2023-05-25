@@ -49,7 +49,7 @@ Positives about the test
 Negatives
 ---
 - Feedback was very crypic and took over two weeks.
-- Be prepared to sit there and concentrate on a timer for three hours.
+- Be prepared to sit there and concentrate on a three hour timer.
 - The test requrires access to your laptop camera the entire time.
 - Make minor mistakes like the ones in the feedback and they will fail you.
 - I reached almost all the criteria, but it clearly made no difference.
