@@ -30,10 +30,6 @@ From terminal type:
 
 > CREATE DATABASE relation;
 
-Result:
----
-Failure
-
 Feedback
 ---
 - No DTO's
