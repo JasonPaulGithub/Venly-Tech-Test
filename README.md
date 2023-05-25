@@ -44,15 +44,15 @@ Feedback
 
 Positives about the test
 ---
-You get to use the intellij IDE. It's not browser based.
+- You get to use the intellij IDE. It's not browser based.
 
 Negatives
 ---
-The test requrires access to your laptop camera.
-Feedback was very crypic and took over two weeks.
-So be prepared to sit there and concentrate ona timer for three hours.
-Make minor mistakes like the ones in the feedback, and they will fail you.
-I reached almost all the criteria, but it clearly made no difference.
+- The test requrires access to your laptop camera.
+- Feedback was very crypic and took over two weeks.
+- Be prepared to sit there and concentrate ona timer for three hours.
+- Make minor mistakes like the ones in the feedback, and they will fail you.
+- I reached almost all the criteria, but it clearly made no difference.
 
 Test Rating
 ---
