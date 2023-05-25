@@ -49,8 +49,9 @@ You get to use the intellij IDE. It's not browser based.
 Negatives
 ---
 The test requrires access to your laptop camera.
-So be prepared to sit there and concentrate under on a timer for three hours.
-But make small mistakes like the ones in the cryptic feedback, and they will fail you.
+Feedback was very crypic and took over two weeks.
+So be prepared to sit there and concentrate ona timer for three hours.
+Make minor mistakes like the ones in the feedback, and they will fail you.
 I reached almost all the criteria, but it clearly made no difference.
 
 Test Rating
