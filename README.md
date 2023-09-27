@@ -4,7 +4,7 @@
 
 This project was completed for a tec exam that was carried out on Friday 12th of May 2023.
 
-Criteria: Complete 9 tasks within a three hour time frame.
+Criteria: Complete all tasks within a three hour time frame.
 
 Solution: Each Push to this project is a timestamp with code that correlates to each task given.
 
